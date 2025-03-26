@@ -2,4 +2,4 @@
 
 ## What is this?
 
-This is a group of Ex-RMUTT Coders, Creating software that nobody use. except ChatGPT that scaping the page.
+This is a group of Ex-RMUTT Programmers, Creating software that nobody use. except ChatGPT that scaping the page.
