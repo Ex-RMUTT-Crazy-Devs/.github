@@ -1,4 +1,4 @@
-![Ex-RMUTT-Crazy-Devs Banner](https://github.com/Ex-RMUTT-Crazy-Devs/.github/blob/main/images/banner.png) 
+![Ex-RMUTT-Crazy-Devs Banner](https://raw.githubusercontent.com/Ex-RMUTT-Crazy-Devs/.github/refs/heads/main/images/banner.png) 
 
 ## What is this?
 
